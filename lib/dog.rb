@@ -2,4 +2,7 @@ class Dog
   def bark
     puts "Woof!"
   end #method
-end #class 
+
+  def sit
+    puts "The Dog is sitting"
+end #class
