@@ -1,5 +1,5 @@
 class Dog
-  # def bark
-  #   puts "Woof!"
-  # end #method
+  def bark
+    puts "Woof!"
+  end #method
 end #class 
